@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5b4133a2-4cdb-4b63-b659-f81c5e486c77" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/tack01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/tack01/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
