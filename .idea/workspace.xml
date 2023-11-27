@@ -4,20 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b4133a2-4cdb-4b63-b659-f81c5e486c77" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/tack01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/tack01/Main.java" afterDir="false" />
+    <list default="true" id="5b4133a2-4cdb-4b63-b659-f81c5e486c77" name="Changes" comment="task 1 done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/BalykCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/Cheburek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/ChocolateBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/Crisps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/DumplingsBerries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/DumplingsMeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/HealthyFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/Notebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/OliveOil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/Pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/SemiFinishedFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/Snack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/Thing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tack02/UMarket.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2YkpEXxK59cQ1XYxvyDd5KaUxVj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,6 +64,18 @@
       <option name="presentableId" value="Default" />
       <updated>1701079320540</updated>
     </task>
+    <task id="LOCAL-00001" summary="task 1 done">
+      <created>1701079867399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701079867399</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task 1 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1 done" />
   </component>
 </project>

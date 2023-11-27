@@ -1,0 +1,11 @@
+package org.example.tack02;
+/**
+ * Вещь
+ */
+public interface Thing {
+
+    /**
+     * Получить наименование вещи
+     * @return наименование вещи
+     */
+    String getName();}
